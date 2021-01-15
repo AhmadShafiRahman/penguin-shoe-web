@@ -1,0 +1,101 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    font-family: 'Bebas Neue', cursive; 
+    font-size: 80px;
+}
+h2{
+    font-weight: 700; 
+    font-family: 'Bebas Neue', cursive; 
+    font-size: 48px;
+}
+h4{
+    font-weight: bold;
+    color: #363958;
+}
+.logo img{
+    width: 300px;
+}
+.shoe img{
+    width: 90%;
+    padding-left: 40px;
+}
+.backgrnd{
+    background-color: #FFF9F4;  
+}
+.casual-shoe1 img{
+    width: 100%;
+    padding: 0px;
+    background-color: #F1F1F1;  
+    /* border: 1px solid red;  */
+    border-radius: 20px;   
+}
+.casual-shoe2 img{
+    width: 100%;
+    padding: 50px;
+    background-color: #F1F1F1; 
+    border-radius: 20px;
+}
+.casual-shoe3 img{
+    width: 100%;
+    padding-top: 20px;
+    background-color: #F1F1F1; 
+    border-radius: 20px;
+}
+.casual-card{
+    border: 0;
+    background-color: white;
+    border-radius: 20px;
+}
+.casual-card-footer{
+    border: 0; 
+    background-color: white;
+}
+.blue-buy-bton{
+    background-image: linear-gradient(0deg, #3543BC, #3D4FF3);
+    padding: 10px 50px;
+    color:white;
+    border-radius: 10px;
+}
+.blue-buy-bton:hover{
+    color:rgb(250, 209, 229);
+}
+.formal-card{
+    border: 0;
+    background-color: white;
+    border-radius: 20px;
+}
+.formal-card-footer{
+    border: 0; 
+    background-color: white;
+}
+.right-image img{
+    width: 100%;
+}
+.bdr-row3{
+    border-radius: 40px;
+}
+.part-row3 img{
+    width: 150px;
+    padding: 25px;
+}
+.sub-back{
+    background-color: #f8f0ea;
+}
+.newsletter h2{
+    text-align: center; 
+    font-size: 84px;
+    font-weight: bold;
+    font-family: 'Bebas Neue', cursive;
+    color:#FA804C;
+}
+.email-in{
+    width: 100%;
+    border-radius:8px;
+    height: 40px;
+    border: none;  
+}
+.email-in:hover{
+    background-color: rgb(238, 236, 236);
+}
